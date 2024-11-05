@@ -17,7 +17,7 @@
 <p align="center">
 	<br> <br>
 	<a href="https://app.codacy.com/gh/wasulabenjamin/github_templates/dashboard">
-		<img src="https://app.codacy.com/project/badge/Grade/f60d2b44b6d64a668fa44852c0243cf5"/>
+		<img src="https://app.codacy.com/project/badge/Grade/7a4ccf19560b426c8a5f651e4c226743"/>
 	</a>
     &nbsp;
 	<a href="https://github.com/wasulabenjamin/github_templates/graphs/contributors">
@@ -79,6 +79,7 @@ Looking to contribute something to this tutorial?
 
 Please read through the [contributing guidelines][contributing_guidelines], included are directions for opening issues, 
 coding standards, and notes on development.
+
 
 <!--
 	As you might notice, I'm using markdown "reference style" links for readability.
