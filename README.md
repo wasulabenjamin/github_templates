@@ -4,14 +4,16 @@
 	</a>
 </p>
 
-<h3 align="center"> Github Templates </h3>
+<h3 align="center">Github Templates</h3>
 
 <p align="center">
     Getting started with Github Templates.
     <br> <br>
-    <a href="https://github.com/wasulabenjamin/github_templates.git"> View Demo </a> . 
-    <a href="https://github.com/wasulabenjamin/github_templates/issues/new?template=bug_report.md"> Report Bug </a> . 
-    <a href="https://github.com/wasulabenjamin/github_templates/issues/new?template=feature_request.md"> Request Feature </a>
+    <a href="https://github.com/wasulabenjamin/github_templates.git">View Demo</a> . 
+    <a href="https://github.com/wasulabenjamin/github_templates/issues/new?template=bug_report.md">Report Bug</a> . 
+    <a href="https://github.com/wasulabenjamin/github_templates/issues/new?template=feature_request.md">
+    	Request Feature
+    </a>
 </p>
 
 <p align="center">
