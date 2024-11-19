@@ -28,11 +28,7 @@ dist
 
 # IntelliJ IDEA
 # =========================
-#.idea
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+.idea
 *.iml
 *.ipr
 *.iws

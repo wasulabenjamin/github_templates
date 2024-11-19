@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v2024.11.02
+## v2024.11
 
 ### Added or Changed
 
