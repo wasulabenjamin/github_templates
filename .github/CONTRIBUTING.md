@@ -1,6 +1,6 @@
 # Contributing
 
-Looking to contribute something to github_templates? 
+Looking to contribute something to **github_templates?** 
 
 **Here's to how you can help.**
 
@@ -41,7 +41,7 @@ so thanks!
 Guidelines for bug reports:
 * **Validate your code** &mdash; To ensure your problem isn't caused by a simple error in your own code.
 * **Use the GitHub issue search** &mdash; Check if the issue has already been reported.
-* **Check if the issue has been fixed** &mdash; Try to reproduce it using the latest `main` or development branch in 
+* **Check if the issue has been fixed** &mdash; Try to reproduce it using the latest `main` or `development` branch in 
 the repository.
 
 A good bug report shouldn't leave contributors needing to chase you up for more information. Please try to be as 

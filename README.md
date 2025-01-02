@@ -19,7 +19,7 @@
 <p align="center">
 	<br> <br>
 	<a href="https://app.codacy.com/gh/wasulabenjamin/github_templates/dashboard">
-		<img src="https://app.codacy.com/project/badge/Grade/7a4ccf19560b426c8a5f651e4c226743"/>
+		<img src="https://app.codacy.com/project/badge/Grade/1b39f5ec8bde451294ceb0ae8f4cbc6b"/>
 	</a>
     &nbsp;
 	<a href="https://github.com/wasulabenjamin/github_templates/graphs/contributors">
@@ -62,7 +62,7 @@ about Github and the Git Version Control System.
 ### Usage
 
 - Fork repository and clone it locally
-- Customize the content inside `.github`, `CHANGELOG.md` and `README.md` to build on the various examples
+- Customize the content inside `.github`, `CHANGELOG.md` and `README.md` as per your project requirements or intention
 
 Please share the goodness & don't forget leaving a :star: on the repository.
 
@@ -74,10 +74,10 @@ Have a bug or a feature request? **Here is to how you can help:**
 
 # Contributing
 
-This is an open source example tutorial, therefore developers are encouraged to contribute and help maintain the project 
+This is an open source example template, therefore developers are encouraged to contribute and help maintain the project 
 throughout its life cycle. Any contributions will be highly appreciated.
 
-Looking to contribute something to this tutorial?
+Looking to contribute something to this template?
 
 Please read through the [contributing guidelines][contributing_guidelines], included are directions for opening issues, 
 coding standards, and notes on development.
