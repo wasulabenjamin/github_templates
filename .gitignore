@@ -1,0 +1,157 @@
+# =====================================================
+# UNIVERSAL GITIGNORE TEMPLATE
+# Language: Flutter, Java, JavaFX, Web
+# Editors: IntelliJ IDEA, VS Code, Eclipse, NetBeans
+# OS: macOS, Windows
+# =====================================================
+
+# =========================
+# General Documentation
+# =========================
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore on: https://help.github.com/articles/ignoring-files
+# Useful templates: https://github.com/github/gitignore
+
+# =========================
+# FLUTTER
+# =========================
+**/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+.idea/
+*.iml
+android/.gradle/
+android/app/key.properties
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+macos/Pods/
+macos/Flutter/ephemeral/
+windows/Flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# =========================
+# JAVA / JAVAFX
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.bak
+hs_err_pid*
+replay_pid*
+
+# JavaFX (optional build tool folders)
+fxbuild/
+fxcache/
+deploy/
+
+# =========================
+# GRADLE / MAVEN
+# =========================
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+target/
+
+# =========================
+# WEB / FRONTEND (JS, HTML, CSS, Node)
+# =========================
+node_modules/
+dist/
+.cache/
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# IDEs / EDITORS
+# =========================
+
+## IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+## VS Code
+.vscode/
+.vs/
+
+## Eclipse
+.apt_generated
+.classpath
+.factorypath
+.metadata/
+.project
+.settings/
+.springBeans
+.sts4-cache
+libs/
+
+## NetBeans
+nbbuild/
+nbdist/
+nbproject/private/
+dist/
+.nb-gradle/
+
+# =========================
+# TEMP / BACKUPS
+# =========================
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# =========================
+# OS-SPECIFIC FILES
+# =========================
+
+## macOS
+.DS_Store
+.apdisk
+.AppleDouble
+.AppleDB
+.AppleDesktop
+.LSOverride
+Network Trash Folder
+Temporary Items
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+._*
+
+## Windows
+ehthumbs.db
+Desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+*.cab
+*.ini
+*.lnk
+*.msi
+*.msm
+*.msp
+
+# =========================
+# TEMP BUILD / BINARIES
+# =========================
+[Bb]uild*/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
