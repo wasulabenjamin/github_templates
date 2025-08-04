@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/wasulabenjamin/github_templates.git">
-		<img src=".github/assets/icons8_github_100px.png" alt="logo">
+		<img src="https://img.icons8.com/?size=120&id=16318&format=png&color=000000" alt="logo">
 	</a>
 </p>
 
@@ -19,7 +19,7 @@
 <p align="center">
 	<br> <br>
 	<a href="https://app.codacy.com/gh/wasulabenjamin/github_templates/dashboard">
-		<img src="https://app.codacy.com/project/badge/Grade/1b39f5ec8bde451294ceb0ae8f4cbc6b"/>
+		<img src="https://app.codacy.com/project/badge/Grade/ee49b6bb231e46fc9f5ee300e96738d4" alt="Codacy Badge"/>
 	</a>
     &nbsp;
 	<a href="https://github.com/wasulabenjamin/github_templates/graphs/contributors">
@@ -43,7 +43,7 @@
 	</a>
 </p>
 
-# Introduction
+# 📘 Introduction
 
 Markdown is an easy-to-read, easy-to-write language for formatting plain text. You can use Markdown syntax, along with 
 some additional HTML tags, to format your writing on GitHub, in places like repository READMEs and comments on pull 
@@ -64,15 +64,9 @@ about Github and the Git Version Control System.
 - Fork repository and clone it locally
 - Customize the content inside `.github`, `CHANGELOG.md` and `README.md` as per your project requirements or intention
 
-Please share the goodness & don't forget leaving a :star: on the repository.
+> Please share the goodness & don't forget leaving a :star: on the repository.
 
-# Bugs and Feature Requests
-
-Have a bug or a feature request? **Here is to how you can help:** 
-* Having problems with the tutorial? [Please report a bug][report_bug]
-* Is your problem or idea you would wish implemented not addressed yet? [Please request a feature][request_feature]
-
-# Contributing
+# 🧩 Contributing
 
 This is an open source example template, therefore developers are encouraged to contribute and help maintain the project 
 throughout its life cycle. Any contributions will be highly appreciated.
@@ -81,6 +75,12 @@ Looking to contribute something to this template?
 
 Please read through the [contributing guidelines][contributing_guidelines], included are directions for opening issues, 
 coding standards, and notes on development.
+
+# 🐛 Bugs and Feature Requests
+
+Have a bug or a feature request? **Here is to how you can help:** 
+* Having problems with the tutorial? [Please report a bug][report_bug]
+* Is your problem or idea you would wish implemented not addressed yet? [Please request a feature][request_feature]
 
 
 <!--
