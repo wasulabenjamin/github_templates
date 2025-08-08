@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/wasulabenjamin/github_templates.git">
-		<img src="https://img.icons8.com/?size=120&id=16318&format=png&color=000000" alt="logo">
+		<img src="https://img.icons8.com/?size=120&id=63777&format=png&color=000000" alt="logo">
 	</a>
 </p>
 
